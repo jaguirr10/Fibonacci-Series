@@ -1,2 +1,2 @@
 # Fibonacci-Series
-Java program renders the Fibonacci sequence up to a given number. 
+Java program that renders the Fibonacci sequence up to a given number. 
